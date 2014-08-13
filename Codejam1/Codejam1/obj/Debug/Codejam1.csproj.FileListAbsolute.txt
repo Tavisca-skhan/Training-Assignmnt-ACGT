@@ -1,0 +1,6 @@
+C:\Users\skhan\Desktop\codejam\Codejam1\Codejam1\bin\Debug\Codejam1.exe.config
+C:\Users\skhan\Desktop\codejam\Codejam1\Codejam1\obj\Debug\Codejam1.csprojResolveAssemblyReference.cache
+C:\Users\skhan\Desktop\codejam\Codejam1\Codejam1\bin\Debug\Codejam1.exe
+C:\Users\skhan\Desktop\codejam\Codejam1\Codejam1\bin\Debug\Codejam1.pdb
+C:\Users\skhan\Desktop\codejam\Codejam1\Codejam1\obj\Debug\Codejam1.exe
+C:\Users\skhan\Desktop\codejam\Codejam1\Codejam1\obj\Debug\Codejam1.pdb
